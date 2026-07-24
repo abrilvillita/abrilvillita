@@ -53,9 +53,12 @@ My projects explore full-stack web development, AI-assisted experiences, data, e
 
 ## Certifications
 
-- **Red Hat System Administration I (RH124)**
+- [**Red Hat System Administration I (RH124)**](https://www.credly.com/badges/1fc0e144-e0f8-4633-bcd1-1c2bc93687d1/public_url)
 - **Oracle Academy — Java Fundamentals**
-- **Cisco Networking Academy — Introduction to Data Science**
+- [**Cisco Networking Academy — Introduction to Data Science**](https://www.credly.com/badges/da8c3137-b233-4c27-9817-08de8070505c/public_url)
+- [**Tecmilenio — Object-Oriented Programming**](https://www.credly.com/badges/f96fa912-92ce-4d15-a410-d14c983bdb4b/public_url)
+- [**Tecmilenio — Operating Systems**](https://www.credly.com/badges/a6f43000-0ab1-4b79-9f48-51b826b3f521/public_url)
+- [**Tecmilenio — Data Science**](https://www.credly.com/badges/b4bc2c51-5ef3-425a-86f8-380ea3549f8a/public_url)
 - [**EF SET English Certificate — C2 Proficient**](https://cert.efset.org/nTgMKy)
 
 ## Currently improving
