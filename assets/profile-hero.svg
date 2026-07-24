@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Abril Miranda Villa Márquez — Software Engineering and Product Building</title>
+  <desc id="desc">Dark editorial banner with violet and teal gradients and software architecture lines.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#07070c"/>
+      <stop offset=".55" stop-color="#111020"/>
+      <stop offset="1" stop-color="#071c1e"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop stop-color="#8b5cf6"/>
+      <stop offset=".5" stop-color="#b88cff"/>
+      <stop offset="1" stop-color="#2dd4bf"/>
+    </linearGradient>
+    <radialGradient id="glowV">
+      <stop stop-color="#8b5cf6" stop-opacity=".42"/>
+      <stop offset="1" stop-color="#8b5cf6" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowT">
+      <stop stop-color="#2dd4bf" stop-opacity=".30"/>
+      <stop offset="1" stop-color="#2dd4bf" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="blur"><feGaussianBlur stdDeviation="34"/></filter>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#fff" stroke-opacity=".035"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="360" rx="28" fill="url(#bg)"/>
+  <rect width="1200" height="360" rx="28" fill="url(#grid)"/>
+  <circle cx="165" cy="64" r="165" fill="url(#glowV)" filter="url(#blur)"/>
+  <circle cx="1050" cy="300" r="190" fill="url(#glowT)" filter="url(#blur)"/>
+  <g fill="none" stroke-linecap="round">
+    <path d="M850 94C930 94 925 52 1010 52" stroke="#8b5cf6" stroke-opacity=".42"/>
+    <path d="M850 124C950 124 950 170 1068 170" stroke="#2dd4bf" stroke-opacity=".42"/>
+    <path d="M850 154C914 154 926 246 1030 246" stroke="#fff" stroke-opacity=".14"/>
+    <circle cx="850" cy="94" r="5" fill="#8b5cf6" stroke="none"/>
+    <circle cx="850" cy="124" r="5" fill="#2dd4bf" stroke="none"/>
+    <circle cx="850" cy="154" r="5" fill="#fff" fill-opacity=".5" stroke="none"/>
+  </g>
+  <g font-family="Inter,Segoe UI,Arial,sans-serif">
+    <text x="72" y="70" fill="#bca3ff" font-size="15" font-weight="700" letter-spacing="4">SOFTWARE · DATA · PRODUCTS</text>
+    <text x="72" y="145" fill="#fff" font-size="52" font-weight="760">Abril Miranda Villa Márquez</text>
+    <text x="72" y="190" fill="#c8c7d2" font-size="23">Software Engineering Student · Product Builder · Creative Technologist</text>
+    <rect x="72" y="235" width="250" height="48" rx="24" fill="#fff" fill-opacity=".075" stroke="#fff" stroke-opacity=".13"/>
+    <circle cx="99" cy="259" r="7" fill="#2dd4bf"/>
+    <text x="118" y="266" fill="#e9e8f1" font-size="16" font-weight="600">Building end-to-end</text>
+    <rect x="336" y="235" width="214" height="48" rx="24" fill="#fff" fill-opacity=".075" stroke="#fff" stroke-opacity=".13"/>
+    <circle cx="363" cy="259" r="7" fill="#8b5cf6"/>
+    <text x="382" y="266" fill="#e9e8f1" font-size="16" font-weight="600">C2 English · 98.33</text>
+    <text x="1018" y="57" fill="#cbb9ff" font-size="13" font-weight="650" letter-spacing="2">INTERFACE</text>
+    <text x="1076" y="175" fill="#83e7d8" font-size="13" font-weight="650" letter-spacing="2">SYSTEM</text>
+    <text x="1038" y="251" fill="#fff" fill-opacity=".55" font-size="13" font-weight="650" letter-spacing="2">IMPACT</text>
+  </g>
+  <rect x="1" y="1" width="1198" height="358" rx="27" fill="none" stroke="url(#accent)" stroke-opacity=".38"/>
+  <rect x="72" y="316" width="420" height="3" rx="1.5" fill="url(#accent)"/>
+</svg>
