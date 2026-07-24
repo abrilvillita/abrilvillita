@@ -1,41 +1,45 @@
 <div align="center">
 
-# Hi, I'm Abril 👋
-### Software Engineering Student · Product Builder · Creative Technologist
+<img src="./assets/profile-hero.svg" width="100%" alt="Abril Miranda Villa Márquez — software engineering, data and product building">
+
+<br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-abrilmirandavilla-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abrilmirandavilla)
 [![Portfolio](https://img.shields.io/badge/Portfolio-In_redesign-111111?style=for-the-badge&logo=githubpages&logoColor=white)](https://abrilvillita.github.io)
 [![Devpost](https://img.shields.io/badge/Devpost-mirandavilla341-003e54?style=for-the-badge&logo=devpost&logoColor=white)](https://devpost.com/mirandavilla341)
-[![Email](https://img.shields.io/badge/Email-Contact_me-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mirandavilla341@gmail.com)
+[![English](https://img.shields.io/badge/English-C2_Proficient-7c5cff?style=for-the-badge)](https://cert.efset.org/nTgMKy)
 
 </div>
 
----
+## Hello
 
-## About me
+I'm a Software Engineering student at **Tecmilenio** in Torreón, México. I turn ideas into end-to-end digital products: interface, logic, data, APIs, deployment and the small interactions that make software feel alive.
 
-I'm a Software Engineering student at **Tecmilenio** in Torreón, México. I enjoy turning ideas into complete digital products: interface, logic, data, APIs, deployment and the small interactions that make software feel alive.
+My work explores full-stack development, AI-assisted experiences, data, education, social impact and interactive storytelling. I learn technologies when a product needs them, document my decisions and stay honest about what is production-ready, experimental or still evolving.
 
-My projects explore full-stack web development, AI-assisted experiences, data, education, social impact and interactive storytelling. I learn technologies when a product needs them and document both what works and what still needs improvement.
+| Current signal | Detail |
+|---|---|
+| **Academic performance** | 98.33 / 100 · 35% academic scholarship |
+| **Languages** | Spanish — native · English — [C2 Proficient](https://cert.efset.org/nTgMKy) |
+| **Technical direction** | Full-stack systems · cloud architecture · data · secure product development |
+| **Creative direction** | Motion · human-centered interaction · visual storytelling |
 
-- 🎓 Academic average: **98.33 / 100**
-- ☁️ Interested in full-stack development, cloud computing and secure product architecture
-- 🎨 Drawn to clean interfaces, motion and human-centered interaction
-- 🏈 Member of Tecmilenio's flag-football representative team
-- 🎸 Multi-instrumentalist: guitar, bass and drums
+## Selected work
 
-## Featured projects
-
-| Project | What it demonstrates | Explore |
+| Project | Product and engineering scope | Explore |
 |---|---|---|
-| **TextHuman** | SaaS, AI integration, auth, payments, email, SQL and cloud deployment | [Live product](https://humanizatexto.com) · [Code](https://github.com/abrilvillita/TextHuman) |
-| **MyFather** | Interactive education, progression systems, bilingual UX and AI | [Prototype](https://myfather.app) · [Code](https://github.com/abrilvillita/MyFather) |
-| **Laguna HAWKS** | Animated frontend for a real student racing team | [Live demo](https://abrilvillita.github.io/Laguna-Hawks-Landing-Page/) · [Code](https://github.com/abrilvillita/Laguna-Hawks-Landing-Page) |
-| **Tiburones.exe** | Narrative logic, state-driven UI and browser persistence | [Play](https://abrilvillita.github.io/Tiburones.exe/) · [Code](https://github.com/abrilvillita/Tiburones.exe) |
-| **ResQ+** | Emergency-response product concept and high-fidelity prototype | [Prototype](https://github.com/abrilvillita/ResQ-Prototype) · [Landing](https://github.com/abrilvillita/ResQ-Project-Landing) |
-| **Campaign Dashboard** | Tasks, budgeting, proposals and product thinking for a student team | [Code](https://github.com/abrilvillita/Student-Campaign-Dashboard) |
+| **TextHuman** | Live AI-assisted SaaS with authentication, subscriptions, document processing, payments, email, PostgreSQL and Cloudflare Workers | [Live product](https://humanizatexto.com) · [Repository](https://github.com/abrilvillita/TextHuman) |
+| **MyFather** | Educational product prototype with progression systems, bilingual UX and an AI-assisted learning experience | [Prototype](https://myfather.app) · [Repository](https://github.com/abrilvillita/MyFather) |
+| **Laguna HAWKS** | Animated public website created for a real student racing team and its sponsorship initiative | [Live demo](https://abrilvillita.github.io/Laguna-Hawks-Landing-Page/) · [Repository](https://github.com/abrilvillita/Laguna-Hawks-Landing-Page) |
+| **Tiburones.exe** | Interactive browser game with narrative decisions, state-driven UI and local persistence | [Play](https://abrilvillita.github.io/Tiburones.exe/) · [Repository](https://github.com/abrilvillita/Tiburones.exe) |
+| **ResQ+** | Emergency-response product concept exploring adaptive guidance, coordinated response and accessible crisis UX | [Prototype](https://github.com/abrilvillita/ResQ-Prototype) · [Landing](https://github.com/abrilvillita/ResQ-Project-Landing) |
+| **Campaign Dashboard** | Collaborative planning system for tasks, budgets, proposals and shared notes in a student campaign | [Repository](https://github.com/abrilvillita/Student-Campaign-Dashboard) |
 
-## Technology
+## How I build
+
+```text
+Problem → product flow → interface → application logic → data → integrations → deployment → iteration
+```
 
 <div align="center">
 
@@ -44,14 +48,15 @@ My projects explore full-stack web development, AI-assisted experiences, data, e
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Red Hat](https://img.shields.io/badge/Red_Hat-EE0000?style=flat-square&logo=redhat&logoColor=white)
 
 </div>
 
-## Certifications
+## Verified learning
 
 - [**Red Hat System Administration I (RH124)**](https://www.credly.com/badges/1fc0e144-e0f8-4633-bcd1-1c2bc93687d1/public_url)
 - **Oracle Academy — Java Fundamentals**
@@ -61,9 +66,9 @@ My projects explore full-stack web development, AI-assisted experiences, data, e
 - [**Tecmilenio — Data Science**](https://www.credly.com/badges/b4bc2c51-5ef3-425a-86f8-380ea3549f8a/public_url)
 - [**EF SET English Certificate — C2 Proficient**](https://cert.efset.org/nTgMKy)
 
-## Currently improving
+## Beyond the screen
 
-Web application security · Testing · Software architecture · Advanced SQL · Cloud deployment · Accessible motion design
+Member of Tecmilenio's flag-football representative team · Multi-instrumentalist — guitar, bass and drums · Interested in drawing, motion and interactive design.
 
 ---
 
