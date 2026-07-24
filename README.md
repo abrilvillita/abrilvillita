@@ -56,6 +56,7 @@ My projects explore full-stack web development, AI-assisted experiences, data, e
 - **Red Hat System Administration I (RH124)**
 - **Oracle Academy — Java Fundamentals**
 - **Cisco Networking Academy — Introduction to Data Science**
+- [**EF SET English Certificate — C2 Proficient**](https://cert.efset.org/nTgMKy)
 
 ## Currently improving
 
