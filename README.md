@@ -5,7 +5,7 @@
 <br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-abrilmirandavilla-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abrilmirandavilla)
-[![Portfolio](https://img.shields.io/badge/Portfolio-In_redesign-111111?style=for-the-badge&logo=githubpages&logoColor=white)](https://abrilvillita.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live-111111?style=for-the-badge&logo=githubpages&logoColor=white)](https://abrilvillita.github.io)
 [![Devpost](https://img.shields.io/badge/Devpost-mirandavilla341-003e54?style=for-the-badge&logo=devpost&logoColor=white)](https://devpost.com/mirandavilla341)
 [![English](https://img.shields.io/badge/English-C2_Proficient-7c5cff?style=for-the-badge)](https://cert.efset.org/nTgMKy)
 
@@ -34,6 +34,8 @@ My work explores full-stack development, AI-assisted experiences, data, educatio
 | **Tiburones.exe** | Interactive browser game with narrative decisions, state-driven UI and local persistence | [Play](https://abrilvillita.github.io/Tiburones.exe/) · [Repository](https://github.com/abrilvillita/Tiburones.exe) |
 | **ResQ+** | Emergency-response product concept exploring adaptive guidance, coordinated response and accessible crisis UX | [Prototype](https://github.com/abrilvillita/ResQ-Prototype) · [Landing](https://github.com/abrilvillita/ResQ-Project-Landing) |
 | **Campaign Dashboard** | Collaborative planning system for tasks, budgets, proposals and shared notes in a student campaign | [Repository](https://github.com/abrilvillita/Student-Campaign-Dashboard) |
+| **Argus AI** | IoT anomaly detection hackathon demo with simulated devices and rule-driven alert logging | [Repository](https://github.com/abrilvillita/argus-ai) |
+| **Incident Management System** | Flask and SQL portfolio case study with requirements, reports and tests | [Repository](https://github.com/abrilvillita/incident-management-system) |
 
 ## How I build
 
