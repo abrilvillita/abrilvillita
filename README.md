@@ -33,7 +33,6 @@ My work explores full-stack development, AI-assisted experiences, data, educatio
 | **Laguna HAWKS** | Animated public website created for a real student racing team and its sponsorship initiative | [Live demo](https://abrilvillita.github.io/Laguna-Hawks-Landing-Page/) · [Repository](https://github.com/abrilvillita/Laguna-Hawks-Landing-Page) |
 | **Tiburones.exe** | Interactive browser game with narrative decisions, state-driven UI and local persistence | [Play](https://abrilvillita.github.io/Tiburones.exe/) · [Repository](https://github.com/abrilvillita/Tiburones.exe) |
 | **ResQ+** | Emergency-response product concept exploring adaptive guidance, coordinated response and accessible crisis UX | [Prototype](https://github.com/abrilvillita/ResQ-Prototype) · [Landing](https://github.com/abrilvillita/ResQ-Project-Landing) |
-| **Campaign Dashboard** | Collaborative planning system for tasks, budgets, proposals and shared notes in a student campaign | [Repository](https://github.com/abrilvillita/Student-Campaign-Dashboard) |
 | **Argus AI** | IoT anomaly detection hackathon demo with simulated devices and rule-driven alert logging | [Repository](https://github.com/abrilvillita/argus-ai) |
 | **Incident Management System** | Flask and SQL portfolio case study with requirements, reports and tests | [Repository](https://github.com/abrilvillita/incident-management-system) |
 
