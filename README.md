@@ -28,10 +28,9 @@ My work explores full-stack development, AI-assisted experiences, data, educatio
 
 | Project | Product and engineering scope | Explore |
 |---|---|---|
-| **TextHuman** | Live AI-assisted SaaS with authentication, subscriptions, document processing, payments, email, PostgreSQL and Cloudflare Workers | [Live product](https://humanizatexto.com) · [Repository](https://github.com/abrilvillita/TextHuman) |
+| **TextHuman** | Web writing product with local code-based editing, account and payment workflows, PostgreSQL and Cloudflare Workers | [Live product](https://humanizatexto.com) · [Repository](https://github.com/abrilvillita/TextHuman) |
 | **MyFather** | Educational product prototype with progression systems, bilingual UX and an AI-assisted learning experience | [Prototype](https://myfather.app) · [Repository](https://github.com/abrilvillita/MyFather) |
 | **Laguna HAWKS** | Animated public website created for a real student racing team and its sponsorship initiative | [Live demo](https://abrilvillita.github.io/Laguna-Hawks-Landing-Page/) · [Repository](https://github.com/abrilvillita/Laguna-Hawks-Landing-Page) |
-| **Tiburones.exe** | Interactive browser game with narrative decisions, state-driven UI and local persistence | [Play](https://abrilvillita.github.io/Tiburones.exe/) · [Repository](https://github.com/abrilvillita/Tiburones.exe) |
 | **ResQ+** | Emergency-response product concept exploring adaptive guidance, coordinated response and accessible crisis UX | [Prototype](https://github.com/abrilvillita/ResQ-Prototype) · [Landing](https://github.com/abrilvillita/ResQ-Project-Landing) |
 | **Argus AI** | IoT anomaly detection hackathon demo with simulated devices and rule-driven alert logging | [Repository](https://github.com/abrilvillita/argus-ai) |
 | **Incident Management System** | Flask and SQL portfolio case study with requirements, reports and tests | [Repository](https://github.com/abrilvillita/incident-management-system) |
